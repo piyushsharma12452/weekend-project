@@ -1,2 +1,2 @@
 # weekend-project
-This is my weekends projest repo
+This is my weekend's project repository.
